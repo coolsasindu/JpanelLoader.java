@@ -8,7 +8,7 @@ import javax.swing.JPanel;
 
 /**
  *
- * @author coolsasisndu@gmail.com
+ * @author coolsasisndu@gmail.com yt.com /techinbox
  */
 public class JpanelLoader {
    
